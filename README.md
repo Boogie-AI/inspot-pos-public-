@@ -1,9 +1,3 @@
-<!--
-  CASE-STUDY README for INSPOT POS.
-  -> Public repo (e.g. "inspot-pos") = this README + /docs screenshots. Code stays private.
-  -> Add screenshots to /docs and update the image paths.
--->
-
 # 🧾 INSPOT POS — Order-Taking System for a Gaming-Café Chain
 
 **An in-house point-of-sale where four different order channels — cashier, waiter PDA, customer self-order, and take-away — all flow into one database, one kitchen, and one printer. Built for a 3-location chain, running in production.**
